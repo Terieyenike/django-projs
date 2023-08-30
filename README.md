@@ -5,6 +5,7 @@ Django, in simple terms, is a programming language based on Python. It is an ope
 ## Articles
 
 - [What is Django: First Impressions?](https://dev.to/terieyenike/what-is-django-first-impressions-3m60)
+- [Django URLs and Views](https://dev.to/terieyenike/django-views-and-urls-explained-270l)
 
 ## Documentation
 
