@@ -1,0 +1,28 @@
+{% extends "movies/base.html" %}
+
+<html>
+  <body>
+    {% block content %}
+    <h1>{{ title|title }}</h1>
+    {% if movies %}
+      <p>Number of movies present: {{movies|length}}</p>
+    {% else %}
+    <p>Number of movies present: N/A</p>
+    {% endif %}
+    <hr />
+    {% if movies %}
+    <ul>
+      {% for movie in movies %}
+      <li>{{ movie|upper }}</li>
+      {% endfor %}
+    </ul>
+    {% else %}
+    <p>No favourite movies</p>
+    {% endif %}
+    {% endblock %}
+
+
+  </body>
+</html>
+
+
