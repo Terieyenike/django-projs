@@ -14,7 +14,7 @@ If no links are displayed, the application shows a message informing the user, "
 
 ## Tech stack
 
-Django
-Tailwind CSS
+- Django
+- Tailwind CSS
 
 Contribute to the page if you need to by cloning this project, raise an issue, or submit a PR.
