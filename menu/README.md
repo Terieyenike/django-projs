@@ -1,12 +1,8 @@
 # Build APIs with Django Rest Framework (DRF)
 
-[DRF](https://www.django-rest-framework.org/) is a popular library to turn Django into a web API.
+[DRF](https://www.django-rest-framework.org/) is a popular library for turning Django into a web API.
 
-We'll create a restaurant menu that can be consumed and displayed by any device.
-
-- Built-in class-based generic views
-- Generic editing views
-
+We'll create a restaurant menu that any device can consume and display.
 
 ![DRF](https://github.com/Terieyenike/django-projs/assets/25850598/1cac0022-d1c1-4997-9196-31c1c76ddd5e)
 
